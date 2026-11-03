@@ -7,3 +7,5 @@ Use complementary resources for different jobs. A book can teach concepts and re
 - [Additional resources](additional-resources.md)
 
 You can work through foundational reading and structured problem practice in parallel.
+
+Link for books pdf: https://drive.google.com/drive/folders/1FDIyDacj3lJ06DOVc7_qx43WNi25XXk0?usp=sharing
